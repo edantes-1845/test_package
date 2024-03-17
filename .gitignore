@@ -1,3 +1,5 @@
 /build/
 /dist/
 /test_package_username.egg-info
+/test_package/
+requirements.txt
